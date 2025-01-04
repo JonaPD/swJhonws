@@ -2,14 +2,21 @@
 
 ### Hi there I'm Jona👋
 I'm Jonathan, a 25-year old telecommunication engineer who learns Data Analysis and maybe soon Big Data Student. Passionate to contribute open-source projects.<br>
-## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jonathan-palan-053377215) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/swJhonws)
+### 📫 How to reach me: 
+<p> 
+  <a href="davidpalan621@g.gamil.com">
+ <img align="left" alt="Gmail" width="80" hight="100" src="https://img.icons8.com/?size=100&id=Uj9DyJeLazL6&format=png&color=000000" />
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="80" hight="100" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" />
+</a> 
+</p>
 
 - 🌱 I’m currently learning Data science and Data Analysis
+- :high_brightness: Exploring the Big Data World
 - 😄 Pronouns: He/His/Him
 
 ### 💻Languages and Tools 
-
 ### **Languages**<sup></sup>
 
 #### **Python**:
