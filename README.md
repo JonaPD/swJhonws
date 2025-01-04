@@ -42,6 +42,3 @@ I'm Jonathan, a 25-year old telecommunication engineer who learns Data Analysis 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> git
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> github
 
-### **Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=swJhonws&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_latte&icon_color=fad000" alt="Zamran's GitHub Stats">
